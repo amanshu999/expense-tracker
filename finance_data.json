@@ -1,0 +1,34 @@
+{
+    "wallet_balance": -6300.0,
+    "expenses": [
+        {
+            "date": "2025-11-29",
+            "amount": 2500.0,
+            "description": "chatgpt api"
+        },
+        {
+            "date": "2025-11-29",
+            "amount": 2500.0,
+            "description": "replit subscription 1 month"
+        },
+        {
+            "date": "2025-11-29",
+            "amount": 1300.0,
+            "description": "gamma"
+        }
+    ],
+    "debts": [
+        {
+            "date": "2025-11-29",
+            "amount": 1100.0,
+            "person": "Gurmeet",
+            "type": "receivable"
+        },
+        {
+            "date": "2025-11-29",
+            "amount": 1100.0,
+            "person": "Vikas Angural",
+            "type": "receivable"
+        }
+    ]
+}
