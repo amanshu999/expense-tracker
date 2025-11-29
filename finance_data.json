@@ -14,7 +14,7 @@
         {
             "date": "2025-11-29",
             "amount": 1300.0,
-            "description": "gamma"
+            "description": "gamma pro"
         }
     ],
     "debts": [
@@ -31,4 +31,5 @@
             "type": "receivable"
         }
     ]
+
 }
